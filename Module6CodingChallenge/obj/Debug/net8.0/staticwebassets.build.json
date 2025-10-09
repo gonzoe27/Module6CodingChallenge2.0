@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "wWz9ez/Ae7r7NeCQqdp0cx6hgtreiyiGD0vhbeFkVh4=",
+  "Source": "Module6CodingChallenge",
+  "BasePath": "_content/Module6CodingChallenge",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Module6CodingChallenge/wwwroot",
+      "Source": "Module6CodingChallenge",
+      "ContentRoot": "/workspaces/Module6CodingChallenge2.0/Module6CodingChallenge/wwwroot/",
+      "BasePath": "_content/Module6CodingChallenge",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/workspaces/Module6CodingChallenge2.0/Module6CodingChallenge/wwwroot/index.html",
+      "SourceId": "Module6CodingChallenge",
+      "SourceType": "Discovered",
+      "ContentRoot": "/workspaces/Module6CodingChallenge2.0/Module6CodingChallenge/wwwroot/",
+      "BasePath": "_content/Module6CodingChallenge",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/workspaces/Module6CodingChallenge2.0/Module6CodingChallenge/wwwroot/style.css",
+      "SourceId": "Module6CodingChallenge",
+      "SourceType": "Discovered",
+      "ContentRoot": "/workspaces/Module6CodingChallenge2.0/Module6CodingChallenge/wwwroot/",
+      "BasePath": "_content/Module6CodingChallenge",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/style.css"
+    }
+  ]
+}
